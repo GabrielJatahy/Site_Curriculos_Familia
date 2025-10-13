@@ -1,6 +1,6 @@
 # 🌐 Site de Currículos - Família Jatahy
 
-Este projeto foi criado para apresentar os currículos profissionais dos membros da família Jatahy de forma simples, organizada e com design moderno.
+Este projeto foi criado para apresentar os currículos profissionais dos membros da família Jatahy de forma simples, organizada e com design moderno e tambem como forma de pratica propria.
 
 🔗 **Acesse o site:**  
 👉 [https://gabrieljatahy.github.io/Site_Curriculos_Familia/](https://gabrieljatahy.github.io/Site_Curriculos_Familia/)
